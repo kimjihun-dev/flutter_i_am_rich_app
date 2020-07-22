@@ -8,11 +8,10 @@
 4. AppBar 텍스트 삽입 및 body 에 이미지 중앙정렬
 5. pubspec.yaml 작성법 및 asset 정의, 들여쓰기 중요성 공부
 6. [appicon](https://appicon.co/) 사이트를 이용한 안드로이드 및 아이폰 아이콘 생성 및 적용 방법
-
-
-<center><img src="https://github.com/kimjihun-dev/flutter_i_am_rich_app/blob/master/i_am_rich_stru.png" width=50% title="아이엠리치 앱 구조"></center>
-
-<center><img src="https://github.com/kimjihun-dev/flutter_i_am_rich_app/blob/master/Screenshot_1595429332.png" width=50% title="실제 앱 화면"></center>
+<br>
+<img src="https://github.com/kimjihun-dev/flutter_i_am_rich_app/blob/master/i_am_rich_stru.png" width=50% title="아이엠리치 앱 구조" align="center">
+<br>
+<img src="https://github.com/kimjihun-dev/flutter_i_am_rich_app/blob/master/Screenshot_1595429332.png" width=50% title="실제 앱 화면" align="center">
 
 
 
